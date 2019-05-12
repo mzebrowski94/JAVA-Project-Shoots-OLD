@@ -1,0 +1,37 @@
+if (number == 1) {
+            indexPosX = 23;
+            indexPosY = 12;
+            color = new Color(124, 252, 0);
+            keyLeft = KeyEvent.VK_LEFT;
+            keyRight = KeyEvent.VK_RIGHT;
+            keyShoot = KeyEvent.VK_UP;
+            moveUnit = -1;
+            shootDirection = 180;
+        } else if (number == 2) {
+            indexPosX = 2;
+            indexPosY = 12;
+            color = new Color(48, 213, 200);
+            keyLeft = KeyEvent.VK_A;
+            keyRight = KeyEvent.VK_D;
+            keyShoot = KeyEvent.VK_W;
+            moveUnit = 1;
+            shootDirection = 0;
+        } else if (number == 3) {
+            indexPosX = 12;
+            indexPosY = 2;
+            color = new Color(252, 3, 0);
+            keyLeft = KeyEvent.VK_NUMPAD4;
+            keyRight = KeyEvent.VK_NUMPAD6;
+            keyShoot = KeyEvent.VK_NUMPAD8;
+            moveUnit = -1;
+            shootDirection = -90;
+        } else if (number == 4) {
+            indexPosX = 12;
+            indexPosY = 23;
+            color = new Color(237, 26, 116);
+            keyLeft = KeyEvent.VK_L;
+            keyRight = KeyEvent.VK_J;
+            keyShoot = KeyEvent.VK_I;
+            moveUnit = 1;
+            shootDirection = 90;
+        }

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common-lib" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/game-common-lib" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/game-drawables" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/game-graphics" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/game-input" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/game-main" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/game-main-module" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/graphics-module" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Project_shoots.iml" filepath="$PROJECT_DIR$/Project_shoots.iml" />
+      <module fileurl="file://$PROJECT_DIR$/game-common-lib/game-common-lib.iml" filepath="$PROJECT_DIR$/game-common-lib/game-common-lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/game-drawables/game-drawables.iml" filepath="$PROJECT_DIR$/game-drawables/game-drawables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/game-graphics/game-graphics.iml" filepath="$PROJECT_DIR$/game-graphics/game-graphics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/game-input/game-input.iml" filepath="$PROJECT_DIR$/game-input/game-input.iml" />
+      <module fileurl="file://$PROJECT_DIR$/game-main/game-main.iml" filepath="$PROJECT_DIR$/game-main/game-main.iml" />
+    </modules>
+  </component>
+</project>

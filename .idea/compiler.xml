@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="game-common-lib" />
+        <module name="game-drawables" />
+        <module name="game-graphics" />
+        <module name="game-input" />
+        <module name="game-main" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="common-lib" target="8" />
+      <module name="game-common-lib" target="8" />
+      <module name="game-drawables" target="8" />
+      <module name="game-graphics" target="8" />
+      <module name="game-input" target="8" />
+      <module name="game-main" target="8" />
+      <module name="game-main-module" target="8" />
+      <module name="Project_shoots" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
